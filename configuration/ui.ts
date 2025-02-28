@@ -1,4 +1,4 @@
-import { AI_NAME, OWNER_NAME } from "@/configuration/identity";
+import { AI_NAME, OWNER_NAME } from "Brand_Builder, Elizabeth_Gross";
 
 export const CHAT_HEADER: string = `AI SBM`;
 export const MESSAGE_PLACEHOLDER: string = `[MESSAGE PLACEHOLDER]`;
