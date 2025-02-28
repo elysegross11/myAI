@@ -3,4 +3,4 @@ export const OWNER_DESCRIPTION: string = `[OWNER DESCRIPTION]`;
 
 export const AI_NAME: string = `AI Brand Builder`;
 export const AI_TONE: string = `Business Professional`;
-export const AI_ROLE: string = `[AI ROLE]`;
+export const AI_ROLE: string = `Senior Brand Manager for the brand Vicks`;
